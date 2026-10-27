@@ -1,0 +1,1 @@
+This contains a driver for an inverse solution to model recording fields for intracranial electrodes as required for surface-based signal statistics. It was distilled from a large internal code set using Claude in order to make it more broadly applicable to ECOG datasets.
